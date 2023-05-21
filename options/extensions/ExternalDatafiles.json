@@ -3,6 +3,10 @@
   "resourceVersion": "1.0",
   "resourceType": "GMExtensionConfigSet",
   "configurables": {
-    "5702d877-ccf4-45ec-b4e8-b738a4b48c52": null
+    "5702d877-ccf4-45ec-b4e8-b738a4b48c52": {
+      "Default": {
+        "value": "T:\\\\VoDs"
+      }
+    }
   }
 }
