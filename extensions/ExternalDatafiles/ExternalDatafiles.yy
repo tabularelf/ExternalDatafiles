@@ -4,7 +4,7 @@
   "name": "ExternalDatafiles",
   "optionsFile": "options.json",
   "options": [
-    {"resourceType":"GMExtensionOption","resourceVersion":"1.0","name":"Assets_Path","extensionId":null,"guid":"5702d877-ccf4-45ec-b4e8-b738a4b48c52","displayName":"External Datafiles Path","listItems":[],"description":"Where you're storing your external datafiles.","defaultValue":"T:\\VoDs","exportToINI":false,"hidden":false,"optType":4,},
+    {"resourceType":"GMExtensionOption","resourceVersion":"1.0","name":"Assets_Path","extensionId":null,"guid":"5702d877-ccf4-45ec-b4e8-b738a4b48c52","displayName":"External Datafiles Path","listItems":[],"description":"Where you're storing your external datafiles.","defaultValue":"","exportToINI":false,"hidden":false,"optType":4,},
   ],
   "exportToGame": true,
   "supportedTargets": -1,
